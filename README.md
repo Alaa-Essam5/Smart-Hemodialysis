@@ -30,7 +30,7 @@ It takes **blood** from the arm, simulates **filtration**, and then returns it â
 https://github.com/user-attachments/assets/c1d99e23-ceb6-464e-bc36-a12c5db7a491
 > 
 ---
-
+![Image](https://github.com/user-attachments/assets/dc87cacf-fe65-4933-b9e5-72a82edbb29f)
 ## System Diagram
 
 Below is a visual representation of the simulation and sensor connections using Arduino:
