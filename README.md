@@ -27,7 +27,7 @@ It takes **blood** from the arm, simulates **filtration**, and then returns it â
 
 > ğŸ“¹ **Watch the full prototype in action**:
 > 
-https://github.com/user-attachments/assets/c1d99e23-ceb6-464e-bc36-a12c5db7a491
+https://github.com/user-attachments/assets/331efee5-3ad4-4a77-a1e7-23d417555015
 > 
 ---
 ![Image](https://github.com/user-attachments/assets/a2d20a4c-5ee8-445a-bd47-856498e0a35b)
